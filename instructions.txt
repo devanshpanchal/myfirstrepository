@@ -1,3 +1,5 @@
+updated file
+
 Go to github. Select New
 
 After creating repository, go to cmd, 
@@ -12,3 +14,8 @@ git push //This pushes the files inside the repository
 
 git pull //to pull any changes made on the github
 
+git branch mybranchname //create branch name
+
+git branch //check branch
+
+git checkout mybranchname //go to branch that i want to go to
